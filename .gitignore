@@ -1,0 +1,8 @@
+*.zip
+.DS_Store
+node_modules/
+__pycache__/
+
+# Obsidian local workspace files
+.obsidian/
+**/.obsidian/
